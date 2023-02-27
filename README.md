@@ -38,7 +38,5 @@
 ├── Neural Network Presentation.pdf
 ├── README.md
 ├── best_model.h5
-├── ndaq_stock_data.csv
-├── README.md
-└── zillow_data.csv
+└── ndaq_stock_data.csv
 ```
