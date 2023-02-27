@@ -33,3 +33,12 @@
 #### The model has shown a good RMSE based on the models performance. The models predictions follow the actual trends quite well, without overfitting. However, stock market model predictions based on only a few variables can only tell so much. Given the influences of public sentiment, governmental policies, and unforeseen events, this model takes into account only the factors that have been given it; the closing price and traded volume within the historical data.
 ## Further Actions
 #### Further actions that would make this model more accurate would be to incorporate mechanisms that allow the data to be scraped and incorporated such as public sentiment (e.g., twitter analysis, proposed legislation, and other current economic factors).
+```
+├── .NASDAQ Prediction.ipynb
+├── Neural Network Presentation.pdf
+├── README.md
+├── best_model.h5
+├── ndaq_stock_data.csv
+├── README.md
+└── zillow_data.csv
+```
