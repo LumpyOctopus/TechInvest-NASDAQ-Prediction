@@ -34,7 +34,7 @@
 ## Further Actions
 #### Further actions that would make this model more accurate would be to incorporate mechanisms that allow the data to be scraped and incorporated such as public sentiment (e.g., twitter analysis, proposed legislation, and other current economic factors).
 ```
-├── .NASDAQ Prediction.ipynb
+├── NASDAQ Prediction.ipynb
 ├── Neural Network Presentation.pdf
 ├── README.md
 ├── best_model.h5
