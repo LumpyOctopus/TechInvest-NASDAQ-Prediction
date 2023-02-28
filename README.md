@@ -38,5 +38,6 @@
 ├── Neural Network Presentation.pdf
 ├── README.md
 ├── best_model.h5
+├── environment.yml
 └── ndaq_stock_data.csv
 ```
