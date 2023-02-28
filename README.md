@@ -30,7 +30,8 @@
 ## Deployment
 ![eval](https://user-images.githubusercontent.com/96254640/221621965-413ef5bd-ecb5-4acd-b052-e5a9dc773854.png)
 ## Conclusion
-#### The model has shown a good RMSE based on the models performance. The models predictions follow the actual trends quite well, without overfitting. However, stock market model predictions based on only a few variables can only tell so much. Given the influences of public sentiment, governmental policies, and unforeseen events, this model takes into account only the factors that have been given it; the closing price and traded volume within the historical data.
+#### The model has shown a good RMSE based on the models performance. The model shows an upward trend over the next seven days.  The models predictions follow the actual trends quite well, without overfitting. However, forecasting longer term with the model may prove inaccurate.  This model does not take into account public sentiment, government regulations, or unforeseen events.
+#### Predicting more than one stock would require a different approach, and would change the scope of the original work.  For example, if the DJIA were to be incorporated, the data would have to be handled in a different fashion, and would require a different scope of work.
 ## Further Actions
 #### Further actions that would make this model more accurate would be to incorporate mechanisms that allow the data to be scraped and incorporated such as public sentiment (e.g., twitter analysis, proposed legislation, and other current economic factors).
 ```
